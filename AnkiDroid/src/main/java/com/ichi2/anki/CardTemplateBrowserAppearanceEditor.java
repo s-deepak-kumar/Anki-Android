@@ -146,7 +146,7 @@ public class CardTemplateBrowserAppearanceEditor extends AnkiActivity {
 
         enableToolbar();
 
-        // Set Activity Title
+        // Set activity title
         if (getSupportActionBar() != null) {
             getSupportActionBar().setTitle(R.string.card_template_browser_appearance_title);
         }
